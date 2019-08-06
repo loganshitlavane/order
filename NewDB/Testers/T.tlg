@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tester>
+<id>T</id>
+<tester_name>Tshepo</tester_name>
+<tester_loc>Johannesurg</tester_loc>
+<remote_user>Yes</remote_user>
+<read_access>Yes</read_access>
+<readwrite_access>No</readwrite_access>
+<passwd_hash>6004CBF68B1B8A2A84CB54BC87C03D3D</passwd_hash>
+<readwritecreate_access>No</readwritecreate_access>
+</tester>

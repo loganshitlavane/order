@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project>
+<id>online order Website</id>
+<manager>Logan Shitlavane</manager>
+<project_title>Cookies&amp;Cakes Paradise</project_title>
+<planned_start_date>20181003</planned_start_date>
+<actual_start_date>20190805</actual_start_date>
+<planned_end_date>20190930</planned_end_date>
+<actual_end_date>20190805</actual_end_date>
+<overview><![CDATA[The website is for a bakery, and it will equip customers to order their cookies and cakes in a blink of an eye]]></overview>
+<resources><![CDATA[Computer<br>Servers<br>IDE<br>Internet]]></resources>
+<risks><![CDATA[Aunthentication <br>Firewall<br>Password Protected]]></risks>
+<notes><![CDATA[Online ordering]]></notes>
+<refereces><![CDATA[Github<br>stackoverflow<br>w3schools]]></refereces>
+</project>

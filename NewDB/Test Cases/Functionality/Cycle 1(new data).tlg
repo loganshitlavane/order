@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<test_case>
+<id>Cycle 1(new data)</id>
+<test_title>Add new department</test_title>
+<test_duration>00:00</test_duration>
+<test_type>Functionality</test_type>
+<test_phase>Acceptance test</test_phase>
+<create_date>20190805</create_date>
+<create_time>15:25:31</create_time>
+<update_date>20190805</update_date>
+<update_time>15:25:31</update_time>
+<create_user_id>LAB1-L12</create_user_id>
+<update_user_id>LAB1-L12</update_user_id>
+<rec_test_configs></rec_test_configs>
+<test_resources>Tshepo Motala</test_resources>
+<prerequisites><![CDATA[Admin Access]]></prerequisites>
+<test_description><![CDATA[1. Ensure that the server is up and running<br>2. go to url: http://localhost:8080/form/<br>3. Click departments<br>4. Type the departments name<br>5. Press the save button<br>6. You will get a message. Are you sure you want to save or update this record?<br>7. Press OK]]></test_description>
+<test_result><![CDATA[A new department added into the database]]></test_result>
+<notes1><![CDATA[txtDepartmentsName from the bean]]></notes1>
+<notes2><![CDATA[departmentName from the database]]></notes2>
+<external_link>http://localhost:8080/form</external_link>
+<priority>0</priority>
+<requirement>Tshepo Motala</requirement>
+</test_case>

@@ -1,0 +1,96 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: Shitl
+  Date: 2019/07/22
+  Time: 3:17 PM
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+  <title>Online order</title>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body class="body" >
+
+<style>
+
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: pink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: #111;
+  }
+  .body {
+    background-image: url("paradise.png ");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 780px 610px;
+  }
+
+
+
+</style>
+
+
+<div class ="topnav" >
+  <ul>
+
+    <li><a href="index.html">Home</a>
+    <li><a href="about.jsp">About</a>
+    <li><a href="contact.jsp">Contact us</a>
+    <li> <a href="success.jsp">Register</a>
+    <li><a href="LoginPage.jsp">Login</a>
+    <li><a href="shop.jsp">Bakery</a>
+
+
+    </li>
+
+      <font color = pink>Mon - Fri: 8AM - 8PM    Saturday: 9AM - 7PM    Sunday: 9AM - 8PM</font>
+
+  </ul>
+
+</div>
+
+<div class ="heading" > <center><h1></h1></center></div>
+
+<br>
+<br>
+
+
+<marquee  direction="up">
+  <br>
+  <img src="cookies.png" width="280" height="280" alt="Natural" />
+</marquee>
+
+
+
+</body>
+
+</html>
+
+</html>
